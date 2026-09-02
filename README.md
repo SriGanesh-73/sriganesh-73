@@ -187,7 +187,7 @@ Retrieval-Augmented Generation application enabling users to upload multiple PDF
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&count_private=true&bg_color=1A1A1A&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
 
 <br/>
 
