@@ -1,134 +1,333 @@
-<h1 align="center">Hey 👋 I'm Sri Ganesh Thiyagarajan</h1>
-<h3 align="center">Information Technology Undergraduate @ MIT – Anna University | Aspiring Full Stack & AI Developer</h3>
+```{=html}
+<div align="center">
+```
+# Hi, I\'m **Sri Ganesh** 👋 {#hi-im-sri-ganesh-wave}
 
-<p align="center">
-  <a href="mailto:sriganeshthiyagarajan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sriganeshthiyagarajan@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Ganesh-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-github">
-    <img src="https://img.shields.io/badge/GitHub-Sri%20Ganesh-black?style=flat-square&logo=github" alt="GitHub">
-  </a>
-</p>
+### B.Tech Information Technology • Backend Development • Full-Stack Engineering {#btech-information-technology--backend-development--full-stack-engineering}
 
----
-
-### 💻 Tech Stack
-
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <a href="mailto:sriganeshthiyagarajan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sri-ganesh-kathiresan-3a798b324">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SriGanesh-73">
+    <img src="https://img.shields.io/badge/GitHub-SriGanesh--73-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+```
+```{=html}
+<img src="https://komarev.com/ghpvc/?username=SriGanesh-73&style=flat-square&color=0A66C2&label=PROFILE+VIEWS"/>
+```
+```{=html}
+</div>
+```
 
----
+------------------------------------------------------------------------
 
-## 💼 Projects
+## 🚀 About Me {#rocket-about-me}
 
-### 📌 Face Recognizer – Classroom Attendance System
-A robust real-time facial recognition system to automate student attendance and improve campus monitoring.
+I\'m a final-year **B.Tech Information Technology student at Anna
+University -- MIT Campus**, with a strong foundation in **Data
+Structures & Algorithms** and a growing focus on **software development
+and backend engineering**.
 
-- Integrated anti-spoofing measures using landmark validation and lighting consistency checks.
-- Used **InsightFace** for high-accuracy face matching and **OpenCV** for real-time webcam capture.
-- Developed separate **staff/student dashboards** with attendance visualization and authentication.
-- Backend hosted on **FastAPI**, with **Firebase** handling auth, storage, and NoSQL data syncing.
-- UI built in **Figma**, translated into a responsive frontend using HTML/CSS + JS.
+I enjoy building applications where the interesting work happens behind
+the interface --- designing APIs, managing sessions and authentication,
+integrating databases, validating business logic, and connecting
+different system components.
 
-> **Stack:** Python, FastAPI, Firebase, Deep Learning, InsightFace, OpenCV
+> **Current direction:** Software Development → Backend Engineering →
+> APIs & System Integration
 
----
+  🎓 Education                         💻 Focus                           📈 Academic
+  ------------------------------------ ---------------------------------- ----------------------
+  B.Tech IT --- Anna University, MIT   Backend & Full-Stack Development   **CGPA: 8.66**
+  2023 -- 2027                         API Design & System Integration    Class XII: **94.5%**
 
-### 📌 Dental Hospital Management System
-A full-stack appointment management platform for dental clinics.
+------------------------------------------------------------------------
 
-- Developed a responsive **MERN** stack web application for patients and admin workflows.
-- Features include dynamic treatment slot generation, appointment tracking, and user registration.
-- Architected reusable and modular React components with clean separation of logic and UI.
-- Ensured real-time slot disabling and notification using MongoDB and Express middleware.
+## 🧩 What I Build {#jigsaw-what-i-build}
 
-> **Stack:** React.js, Node.js, Express.js, MongoDB, CSS
+``` text
+Frontend
+   │
+   ▼
+React.js / JavaScript
+   │
+   ▼
+REST APIs
+   │
+   ├──────────────► Authentication / JWT / Sessions
+   │
+   ├──────────────► Business Logic / Validation
+   │
+   ▼
+Express.js / Flask
+   │
+   ▼
+MongoDB / SQL / Firebase
+```
 
----
+My projects have given me hands-on experience with:
 
-### 📌 AI-Powered Resume Parser
-An intelligent web tool that extracts resume data and provides smart job suggestions.
+-   🔐 Authentication, authorization & JWT
+-   🧠 Session management and guest-specific access
+-   🔌 REST API development
+-   🗄️ MongoDB, SQL and Firebase
+-   ⚛️ React-based frontend development
+-   🤖 RAG systems, embeddings and semantic search
+-   🧪 Backend validation and conflict prevention
+-   🔗 Integrating multiple services into a single application
 
-- Parsed resumes (PDF/Plain text) using custom **spaCy NER** models trained on labeled resumes.
-- Classified resumes by job-fit using **scikit-learn** classification models.
-- Integrated **LLM APIs** for generating resume feedback and improvements in chatbot format.
-- Used **React Dropzone** for drag-and-drop upload and FastAPI for parsing pipeline integration.
+------------------------------------------------------------------------
 
-> **Stack:** React, Python, FastAPI, spaCy, scikit-learn, LLM APIs, Axios
+# 🛠️ Tech Stack {#hammer_and_wrench-tech-stack}
 
----
+### Languages
 
-### 📌 Emergency Response Optimization System
-A disaster relief simulation system using graph theory and efficient pathfinding.
+```{=html}
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+```
+### Frontend
 
-- Applied **Dijkstra’s Algorithm** to determine shortest delivery paths for aid vehicles.
-- Used custom **Queue** and **PriorityQueue** implementations to handle inventory dispatching.
-- Managed relief operations, resource allocation, and route optimization through C-based CLI interface.
+```{=html}
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+```
+### Backend & APIs {#backend--apis}
 
-> **Stack:** C, Graph Algorithms, DSA, Queue, Structs
+```{=html}
+<p>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+```
+### Databases & Tools {#databases--tools}
 
-### 🔗 URL Shortener with Analytics
+```{=html}
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+```
+### Core Concepts
 
-A compact and scalable URL shortener with full analytics dashboard and performance optimization.
+`DSA` `OOP` `DBMS` `Operating Systems` `REST APIs` `Authentication`
+`Session Management`
 
-- Shortens long URLs into trackable, unique links using `nanoid`.
-- Stores click data (timestamp, browser, location) in MongoDB.
-- Responsive React frontend to generate and manage links.
-- API endpoints include rate-limiting and validation.
+------------------------------------------------------------------------
 
-> **Stack:** React.js, Node.js, Express.js, MongoDB, Axios, Tailwind CSS
+# 🌟 Featured Projects {#star2-featured-projects}
 
----
+## 🏨 Hotel Chatbot --- Intelligent Human Handoff {#hotel-hotel-chatbot--intelligent-human-handoff}
 
-### 🎓 Education
+**React.js · Express.js · Firebase · JWT · Session Management**
 
-**B.Tech – Information Technology**  
-*Madras Institute of Technology, Anna University*  
-📍 2023 – Present | CGPA: 8.34
+A hotel support chatbot designed to answer frequently asked questions
+while providing a smooth escalation path to human receptionists.
 
-**Higher Secondary – Sir Ramaswami Mudaliar Hr. Sec. School**  
-📍 2022 – 2023 | Score: 94.5%
+**Highlights**
 
----
+-   💬 Automated FAQ-based guest support
+-   🤝 Transfers unresolved queries to receptionists for live assistance
+-   🔐 JWT-based session management
+-   👤 Guest-specific access and conversation tracking
+-   🏁 Session lifecycle designed around guest checkout
 
-### 🏆 Certifications
+**Repository:** `Add repository link here`
 
-- 🎖️ NPTEL – Programming in Java  
-- 📜 NPTEL – Python for Data Science
+------------------------------------------------------------------------
 
----
+## 🦷 Dental Hospital Management System {#tooth-dental-hospital-management-system}
 
-### 🧠 Core Strengths
+**React.js · Express.js · CSS · MongoDB**
 
-- ✅ Full Stack Web Development (MERN, FastAPI)  
-- ✅ ML & DL Model Integration (spaCy, TensorFlow, InsightFace)  
-- ✅ Strong in DSA & System Design  
-- ✅ Collaborative, Adaptive, and Curious
+A responsive full-stack hospital management application focused on
+authentication and appointment booking.
 
----
+**Highlights**
 
-### 📫 Contact
+-   🔐 User authentication
+-   📅 Dynamic appointment scheduling
+-   ⏱️ Treatment-duration-aware availability validation
+-   🚫 Prevents overlapping/conflicting appointments
+-   🗄️ MongoDB-backed application data
 
-- ✉️ Email: sriganeshthiyagarajan@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 💻 [GitHub](https://github.com/your-github)
+**Repository:** `Add repository link here`
 
----
+------------------------------------------------------------------------
 
-> _"Strive not to be a success, but rather to be of value."_ – Albert Einstein
+## 📚 AI Document Assistant {#books-ai-document-assistant}
+
+**React.js · Flask · Python · ChromaDB · Sentence Transformers · Google
+Gemini API**
+
+A Retrieval-Augmented Generation application that allows users to upload
+multiple PDF documents and interact with their content using natural
+language.
+
+**How it works**
+
+``` text
+PDF Documents
+      │
+      ▼
+Text Extraction
+      │
+      ▼
+Sentence Transformer Embeddings
+      │
+      ▼
+Persistent ChromaDB Knowledge Base
+      │
+      ▼
+Semantic Search
+      │
+      ▼
+Relevant Context
+      │
+      ▼
+Google Gemini API
+      │
+      ▼
+Context-Aware Answer
+```
+
+**Highlights**
+
+-   📄 Multiple PDF document ingestion
+-   🔎 Semantic retrieval using vector embeddings
+-   🧠 Persistent ChromaDB knowledge base
+-   🤖 LLM-powered context-aware responses
+-   ⚡ React + Flask full-stack architecture
+
+**Repository:** `Add repository link here`
+
+------------------------------------------------------------------------
+
+# 📊 GitHub {#bar_chart-github}
+
+```{=html}
+<div align="center">
+```
+```{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&theme=transparent" />
+```
+```{=html}
+<br/>
+```
+```{=html}
+<img src="https://streak-stats.demolab.com?user=SriGanesh-73&hide_border=true&theme=transparent" />
+```
+```{=html}
+</div>
+```
+
+------------------------------------------------------------------------
+
+# 🧠 LeetCode {#brain-leetcode}
+
+> Replace `LEETCODE_USERNAME` below with your actual LeetCode username.
+
+```{=html}
+<div align="center">
+```
+```{=html}
+<a href="https://leetcode.com/u/LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+```
+`<br/>`{=html}`<br/>`{=html}
+
+```{=html}
+<a href="https://leetcode.com/u/LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+```
+```{=html}
+</div>
+```
+
+------------------------------------------------------------------------
+
+# 🏆 Certifications {#trophy-certifications}
+
+  Certification                       Platform
+  ----------------------------------- ----------
+  Programming in Java                 NPTEL
+  Python for Data Science             NPTEL
+  Neural Networks and Deep Learning   Coursera
+
+------------------------------------------------------------------------
+
+# 🎓 Education {#mortar_board-education}
+
+  Institution                                Program                         Period                 Result
+  ------------------------------------------ ------------------------------- ---------------------- ---------------
+  **Anna University -- MIT Campus**          B.Tech Information Technology   Aug 2023 -- Present    **CGPA 8.66**
+  **Sir Ramaswami Mudaliar Hr Sec School**   Higher Secondary Education      Jun 2022 -- Mar 2023   **94.5%**
+
+------------------------------------------------------------------------
+
+# 🤝 Volunteering {#handshake-volunteering}
+
+**NSS --- MIT**
+
+Contributing to community-oriented activities alongside academic and
+technical work.
+
+------------------------------------------------------------------------
+
+# 📫 Let\'s Connect {#mailbox-lets-connect}
+
+```{=html}
+<div align="center">
+```
+```{=html}
+<a href="mailto:sriganeshthiyagarajan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sriganeshthiyagarajan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+```
+```{=html}
+<a href="https://www.linkedin.com/in/sri-ganesh-kathiresan-3a798b324">
+  <img src="https://img.shields.io/badge/LinkedIn-Sri%20Ganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+```
+```{=html}
+<a href="https://github.com/SriGanesh-73">
+  <img src="https://img.shields.io/badge/GitHub-SriGanesh--73-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+```
+```{=html}
+</div>
+```
+```{=html}
+<br/>
+```
+```{=html}
+<div align="center">
+```
+### 💡 Build. Learn. Improve. Repeat. {#bulb-build-learn-improve-repeat}
+
+```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=120&section=footer"/>
+```
+```{=html}
+</div>
+```
