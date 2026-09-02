@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6a11cb,100:2575fc&height=230&section=header&text=Sri%20Ganesh%20Thiyagarajan%20K&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20API%20Design%20%C2%B7%20System%20Integration&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2ea043&height=230&section=header&text=Sri%20Ganesh%20Thiyagarajan%20K&fontSize=40&fontColor=ffffff&fontFamily=JetBrains+Mono&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20API%20Design%20%C2%B7%20System%20Integration&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&pause=1000&color=2575FC&center=true&vCenter=true&width=680&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Backend+%26+Full-Stack+Developer;DSA+Enthusiast+%7C+Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Backend+%26+Full-Stack+Developer;DSA+Enthusiast+%7C+Building+Scalable+Web+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SriGanesh-73&color=2575FC&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SriGanesh-73&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -186,12 +186,12 @@ Retrieval-Augmented Generation application enabling users to upload multiple PDF
 ## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&count_private=true&bg_color=1A1A1A&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriGanesh-73&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriGanesh-73&hide_border=true&background=1A1A1A&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 <br/>
 
@@ -214,6 +214,6 @@ Retrieval-Augmented Generation application enabling users to upload multiple PDF
 
 <i>"Code with purpose. Debug with patience. Deploy with confidence."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:1a1a1a&height=100&section=footer" width="100%"/>
 
 </div>
