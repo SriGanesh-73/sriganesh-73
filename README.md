@@ -243,20 +243,20 @@ Context-Aware Answer
 
 # 🧠 LeetCode {#brain-leetcode}
 
-> Replace `LEETCODE_USERNAME` below with your actual LeetCode username.
+> LeetCode username: **sriganesh_73**
 
 ```{=html}
 <div align="center">
 ```
 ```{=html}
-<a href="https://leetcode.com/u/LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/sriganesh_73/">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=sriganesh_73&theme=dark&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 ```
 `<br/>`{=html}`<br/>`{=html}
 
 ```{=html}
-<a href="https://leetcode.com/u/LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/sriganesh_73/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 ```
