@@ -191,10 +191,6 @@ Retrieval-Augmented Generation application enabling users to upload multiple PDF
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SriGanesh-73&hide_border=true&background=1A1A1A&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/>
-
 <img src="https://leetcard.jacoblin.cool/sriganesh_73?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
