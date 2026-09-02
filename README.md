@@ -1,333 +1,219 @@
-```{=html}
 <div align="center">
-```
-# Hi, I\'m **Sri Ganesh** 👋 {#hi-im-sri-ganesh-wave}
 
-### B.Tech Information Technology • Backend Development • Full-Stack Engineering {#btech-information-technology--backend-development--full-stack-engineering}
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6a11cb,100:2575fc&height=230&section=header&text=Sri%20Ganesh%20Thiyagarajan%20K&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20API%20Design%20%C2%B7%20System%20Integration&descAlignY=58&descSize=17" width="100%"/>
 
-```{=html}
-<p>
-  <a href="mailto:sriganeshthiyagarajan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sri-ganesh-kathiresan-3a798b324">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SriGanesh-73">
-    <img src="https://img.shields.io/badge/GitHub-SriGanesh--73-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-```
-```{=html}
-<img src="https://komarev.com/ghpvc/?username=SriGanesh-73&style=flat-square&color=0A66C2&label=PROFILE+VIEWS"/>
-```
-```{=html}
-</div>
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&pause=1000&color=2575FC&center=true&vCenter=true&width=680&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Backend+%26+Full-Stack+Developer;DSA+Enthusiast+%7C+Building+Scalable+Web+Apps" alt="Typing SVG" />
+</a>
 
-------------------------------------------------------------------------
-
-## 🚀 About Me {#rocket-about-me}
-
-I\'m a final-year **B.Tech Information Technology student at Anna
-University -- MIT Campus**, with a strong foundation in **Data
-Structures & Algorithms** and a growing focus on **software development
-and backend engineering**.
-
-I enjoy building applications where the interesting work happens behind
-the interface --- designing APIs, managing sessions and authentication,
-integrating databases, validating business logic, and connecting
-different system components.
-
-> **Current direction:** Software Development → Backend Engineering →
-> APIs & System Integration
-
-  🎓 Education                         💻 Focus                           📈 Academic
-  ------------------------------------ ---------------------------------- ----------------------
-  B.Tech IT --- Anna University, MIT   Backend & Full-Stack Development   **CGPA: 8.66**
-  2023 -- 2027                         API Design & System Integration    Class XII: **94.5%**
-
-------------------------------------------------------------------------
-
-## 🧩 What I Build {#jigsaw-what-i-build}
-
-``` text
-Frontend
-   │
-   ▼
-React.js / JavaScript
-   │
-   ▼
-REST APIs
-   │
-   ├──────────────► Authentication / JWT / Sessions
-   │
-   ├──────────────► Business Logic / Validation
-   │
-   ▼
-Express.js / Flask
-   │
-   ▼
-MongoDB / SQL / Firebase
-```
-
-My projects have given me hands-on experience with:
-
--   🔐 Authentication, authorization & JWT
--   🧠 Session management and guest-specific access
--   🔌 REST API development
--   🗄️ MongoDB, SQL and Firebase
--   ⚛️ React-based frontend development
--   🤖 RAG systems, embeddings and semantic search
--   🧪 Backend validation and conflict prevention
--   🔗 Integrating multiple services into a single application
-
-------------------------------------------------------------------------
-
-# 🛠️ Tech Stack {#hammer_and_wrench-tech-stack}
-
-### Languages
-
-```{=html}
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-```
-### Frontend
-
-```{=html}
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-```
-### Backend & APIs {#backend--apis}
-
-```{=html}
-<p>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-```
-### Databases & Tools {#databases--tools}
-
-```{=html}
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-```
-### Core Concepts
-
-`DSA` `OOP` `DBMS` `Operating Systems` `REST APIs` `Authentication`
-`Session Management`
-
-------------------------------------------------------------------------
-
-# 🌟 Featured Projects {#star2-featured-projects}
-
-## 🏨 Hotel Chatbot --- Intelligent Human Handoff {#hotel-hotel-chatbot--intelligent-human-handoff}
-
-**React.js · Express.js · Firebase · JWT · Session Management**
-
-A hotel support chatbot designed to answer frequently asked questions
-while providing a smooth escalation path to human receptionists.
-
-**Highlights**
-
--   💬 Automated FAQ-based guest support
--   🤝 Transfers unresolved queries to receptionists for live assistance
--   🔐 JWT-based session management
--   👤 Guest-specific access and conversation tracking
--   🏁 Session lifecycle designed around guest checkout
-
-**Repository:** `Add repository link here`
-
-------------------------------------------------------------------------
-
-## 🦷 Dental Hospital Management System {#tooth-dental-hospital-management-system}
-
-**React.js · Express.js · CSS · MongoDB**
-
-A responsive full-stack hospital management application focused on
-authentication and appointment booking.
-
-**Highlights**
-
--   🔐 User authentication
--   📅 Dynamic appointment scheduling
--   ⏱️ Treatment-duration-aware availability validation
--   🚫 Prevents overlapping/conflicting appointments
--   🗄️ MongoDB-backed application data
-
-**Repository:** `Add repository link here`
-
-------------------------------------------------------------------------
-
-## 📚 AI Document Assistant {#books-ai-document-assistant}
-
-**React.js · Flask · Python · ChromaDB · Sentence Transformers · Google
-Gemini API**
-
-A Retrieval-Augmented Generation application that allows users to upload
-multiple PDF documents and interact with their content using natural
-language.
-
-**How it works**
-
-``` text
-PDF Documents
-      │
-      ▼
-Text Extraction
-      │
-      ▼
-Sentence Transformer Embeddings
-      │
-      ▼
-Persistent ChromaDB Knowledge Base
-      │
-      ▼
-Semantic Search
-      │
-      ▼
-Relevant Context
-      │
-      ▼
-Google Gemini API
-      │
-      ▼
-Context-Aware Answer
-```
-
-**Highlights**
-
--   📄 Multiple PDF document ingestion
--   🔎 Semantic retrieval using vector embeddings
--   🧠 Persistent ChromaDB knowledge base
--   🤖 LLM-powered context-aware responses
--   ⚡ React + Flask full-stack architecture
-
-**Repository:** `Add repository link here`
-
-------------------------------------------------------------------------
-
-# 📊 GitHub {#bar_chart-github}
-
-```{=html}
-<div align="center">
-```
-```{=html}
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&theme=transparent" />
-```
-```{=html}
 <br/>
-```
-```{=html}
-<img src="https://streak-stats.demolab.com?user=SriGanesh-73&hide_border=true&theme=transparent" />
-```
-```{=html}
-</div>
-```
 
-------------------------------------------------------------------------
-
-# 🧠 LeetCode {#brain-leetcode}
-
-> LeetCode username: **sriganesh_73**
-
-```{=html}
-<div align="center">
-```
-```{=html}
-<a href="https://leetcode.com/u/sriganesh_73/">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=sriganesh_73&theme=dark&ext=heatmap" alt="LeetCode Stats"/>
-</a>
-```
-`<br/>`{=html}`<br/>`{=html}
-
-```{=html}
-<a href="https://leetcode.com/u/sriganesh_73/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-```
-```{=html}
-</div>
-```
-
-------------------------------------------------------------------------
-
-# 🏆 Certifications {#trophy-certifications}
-
-  Certification                       Platform
-  ----------------------------------- ----------
-  Programming in Java                 NPTEL
-  Python for Data Science             NPTEL
-  Neural Networks and Deep Learning   Coursera
-
-------------------------------------------------------------------------
-
-# 🎓 Education {#mortar_board-education}
-
-  Institution                                Program                         Period                 Result
-  ------------------------------------------ ------------------------------- ---------------------- ---------------
-  **Anna University -- MIT Campus**          B.Tech Information Technology   Aug 2023 -- Present    **CGPA 8.66**
-  **Sir Ramaswami Mudaliar Hr Sec School**   Higher Secondary Education      Jun 2022 -- Mar 2023   **94.5%**
-
-------------------------------------------------------------------------
-
-# 🤝 Volunteering {#handshake-volunteering}
-
-**NSS --- MIT**
-
-Contributing to community-oriented activities alongside academic and
-technical work.
-
-------------------------------------------------------------------------
-
-# 📫 Let\'s Connect {#mailbox-lets-connect}
-
-```{=html}
-<div align="center">
-```
-```{=html}
 <a href="mailto:sriganeshthiyagarajan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sriganeshthiyagarajan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-sriganeshthiyagarajan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-```
-```{=html}
-<a href="https://www.linkedin.com/in/sri-ganesh-kathiresan-3a798b324">
-  <img src="https://img.shields.io/badge/LinkedIn-Sri%20Ganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/sri-ganesh-kathiresan-3a798b324">
+  <img src="https://img.shields.io/badge/LinkedIn-Sri%20Ganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-```
-```{=html}
 <a href="https://github.com/SriGanesh-73">
-  <img src="https://img.shields.io/badge/GitHub-SriGanesh--73-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-SriGanesh--73-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-```
-```{=html}
-</div>
-```
-```{=html}
-<br/>
-```
-```{=html}
-<div align="center">
-```
-### 💡 Build. Learn. Improve. Repeat. {#bulb-build-learn-improve-repeat}
+<a href="https://leetcode.com/u/sriganesh_73/">
+  <img src="https://img.shields.io/badge/LeetCode-sriganesh__73-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
 
-```{=html}
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=120&section=footer"/>
-```
-```{=html}
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SriGanesh-73&color=2575FC&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
+
+<br/>
+
+## 👋 About Me
+
+```yaml
+name:      Sri Ganesh Thiyagarajan K
+role:      Final-Year IT Student @ Madras Institute of Technology, Anna University
+focus:     Backend Engineering  ·  API Design  ·  System Integration
+cgpa:      8.66
+location:  Chennai, Tamil Nadu, India
 ```
+
+Final-year B.Tech Information Technology student with strong fundamentals in Data Structures and Algorithms. Passionate about software development, backend engineering, API design, and system integration, with hands-on experience building scalable full-stack web applications.
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🏨 Hotel Chatbot with Human Handoff</h3>
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+
+Built a hotel support chatbot that answers FAQs and seamlessly transfers unresolved queries to receptionists for live assistance, with Firebase + JWT-based session management for secure, guest-specific conversation tracking until checkout.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+<sub>Add your repository link here</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🦷 Dental Hospital Management System</h3>
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+
+Responsive full-stack web application with user authentication and appointment booking, featuring dynamic scheduling with backend availability validation based on treatment duration to prevent booking conflicts.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<sub>Add your repository link here</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+<h3>📄 AI Document Assistant (RAG)</h3>
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+
+Retrieval-Augmented Generation application enabling users to upload multiple PDFs and interact with them via natural language. Implements vector embeddings and semantic search over a persistent knowledge base, integrated with an LLM for context-aware responses.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Sentence%20Transformers-8E75B2?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+<sub>Add your repository link here</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<th>🎓 Academics</th>
+<th>🎓 Academics</th>
+<th>🤝 Volunteering</th>
+</tr>
+<tr>
+<td align="center"><b>B.Tech IT, MIT</b><br/>CGPA 8.66</td>
+<td align="center"><b>Higher Secondary</b><br/>94.5%</td>
+<td align="center"><b>NSS, MIT</b><br/>Volunteer</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Neural%20Networks%20%26%20Deep%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/DSA-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-8E44AD?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Institution | Degree | Duration |
+|:---|:---|:---:|
+| **Anna University — MIT Campus, Chennai** | B.Tech – Information Technology (CGPA 8.66) | 2023 – 2027 |
+| **Sir Ramaswami Mudaliar Hr Sec School** | Higher Secondary — 94.5% | 2022 – 2023 |
+
+</div>
+
+<br/>
+
+## 📊 GitHub & LeetCode Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SriGanesh-73&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriGanesh-73&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/sriganesh_73?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sriganeshthiyagarajan@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sri-ganesh-kathiresan-3a798b324"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SriGanesh-73"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sriganesh_73/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Code with purpose. Debug with patience. Deploy with confidence."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+
+</div>
