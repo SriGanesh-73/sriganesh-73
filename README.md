@@ -183,15 +183,17 @@ Retrieval-Augmented Generation application enabling users to upload multiple PDF
 
 <br/>
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub & LeetCode
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&count_private=true&bg_color=1A1A1A&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SriGanesh-73&show_icons=true&hide_border=true&count_private=true&bg_color=1A1A1A&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriGanesh-73&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/sriganesh_73?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/sriganesh_73/">
+  <img src="https://leetcard.jacoblin.cool/sriganesh_73?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
